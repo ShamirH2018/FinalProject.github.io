@@ -15,12 +15,10 @@ header { background-color: #231F20;
          color: #ffffff;
        font-family: Arial, helvetica;;
 }
-h1 { line-height: 200%;
-        text-align: center;
-    background-repeat: no-repeat;
-    background-position: right;
-    padding-left: 10px;
-    margin-bottom: 0;
+h1 { line-height: 140%;
+text-align: center;
+padding-left: 15px;
+margin-bottom: 0;
 background-color:##231F20;
 color:#ffffff;
 }
